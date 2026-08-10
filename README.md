@@ -1,4 +1,5 @@
-[![Awesome](https://img.shields.io/badge/Awesome-AI-000000.svg?logo=github&labelColor=24292e)](#)
+- **[AnySlide](https://anyslide.app)** - AI slide deck generator with two engines: HTML inline-editable web slides and gpt-image-2 full-image rendering with native Chinese, Japanese, and Korean text support. 38 templates, 8 niche presets, 60 free credits at signup.
+- **[Corank](https://corank.ai)** - AI search visibility platform providing free audits and recurring monitoring across ChatGPT, Perplexity, Claude, Gemini, and Google AI Overviews, with source-role analysis and action recommendations.[![Awesome](https://img.shields.io/badge/Awesome-AI-000000.svg?logo=github&labelColor=24292e)](#)
 ![GitHub Stars](https://img.shields.io/github/stars/eudk/awesome-ai-tools?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/eudk/awesome-ai-tools?style=social)
 ![GitHub Contributors](https://img.shields.io/github/contributors/eudk/awesome-ai-tools)
